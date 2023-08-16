@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.image-category{
+	width:200px;
+}
+
+.checkout-form label {
+   font-size: 12px;
+   font-weight: 700;
+}
+
+.checkout-form input {
+    font-size: 14;
+    padding: 5px;
+    font-weight: 400;
+}
+.search-bar{
+   width: 40%;
+   margin-left: 5%;
+}
+.ui-menu {
+    z-index: 3500 !important;
+}
+.chatto{
+bottom: 10px;
+left: 10px;
+position: fixed;
+}
